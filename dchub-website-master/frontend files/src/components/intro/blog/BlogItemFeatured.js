@@ -1,0 +1,61 @@
+import { Card, Divider, Grid, makeStyles, Typography } from "@material-ui/core";
+import React from "react";
+const useStyles = makeStyles((theme) => ({
+  root: {
+    width: "100%",
+
+    margin: theme.spacing(2, 2),
+    marginBottom:theme.spacing(10),
+  },
+  img: {
+    height: "320px",
+    width: "100%",
+    objectFit: "cover",
+  },
+}));
+export default function BlogItemFeatured() {
+  const classes = useStyles();
+
+  return (
+    <Card variant="elevation" elevation='8' className={classes.root}>
+      <img
+        className={classes.img}
+        src="https://images.unsplash.com/photo-1593022356269-609ed284b3c3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80"
+        alt="banner"
+        loading="lazy"
+      />
+
+      <Typography>
+       
+        LONG LONG LONG LONG LONG LONG LONG LONG LONG TITLE HERE
+      </Typography>
+      <Typography>
+        
+        description here description here description here description here
+        description here description here description here description here
+        description here description here description here description here
+        description here description here description here description here
+        description here description here description here description here
+        description here description here description here description here
+        description here description here description here description here
+        description here description here description here description here
+        description here 
+      </Typography>
+
+      <Grid container >
+        
+      <Typography>
+         writer
+      </Typography>  
+      <Divider orientation='vertical' flexItem/>
+      <Typography>
+         date
+      </Typography>  
+
+      <Typography>
+         3mins read 
+      </Typography>  
+      </Grid>
+    </Card>
+  );
+}

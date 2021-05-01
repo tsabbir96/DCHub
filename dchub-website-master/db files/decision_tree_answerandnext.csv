@@ -1,0 +1,90 @@
+id,answer,next_question_id
+11,Yes,14
+12,No,15
+92,Yes,105
+93,No,106
+94,Yes,107
+95,No,108
+96,Yes,109
+97,No,110
+74,inside of my mouth,87
+75,on my face or neck,88
+76,On My Gum,89
+77,On My Cheek,90
+78,On My Palate,91
+79,Under my tongue,92
+80,Yes,93
+81,No,94
+82,Yes,95
+83,No,96
+84,Yes,97
+85,No,98
+86,Yes,99
+87,No,100
+88,Yes,101
+89,No,102
+90,Yes,103
+91,No,104
+13,Yes,17
+14,No,18
+15,Yes,19
+16,No,20
+17,more than 60 seconds,21
+18,less than 60 seconds,22
+19,Yes,23
+20,No,24
+21,Yes,26
+22,No,27
+23,Yes,28
+24,No,29
+36,Yes,44
+37,No,45
+38,"Not Sure, What I need",46
+39,Yes,47
+40,No,48
+41,"Not Sure, What I need",49
+42,No,50
+43,No,51
+44,Yes,52
+27,More Permanent,33
+28,What ever Costs Less,34
+29,I don’t know the difference,35
+64,Yes,77
+65,No,78
+66,tooth injury or trauma,79
+67,tetracycline antibiotic staining,80
+68,aging or food,81
+69,Yes,82
+70,No,83
+71,Yes,84
+72,No,76
+73,No,85
+98,Yes,112
+99,No,113
+60,Yes,72
+61,No,73
+62,Yes,74
+63,No,75
+54,Yes,65
+55,No,66
+56,Yes,67
+57,No,68
+58,Yes,69
+59,No,70
+49,Yes,59
+50,I don’t want braces,60
+51,I want to get clear aligner,61
+52,Learn more about Braces,62
+53,Learn more about Clear Aligners,63
+45,Yes,53
+46,No,54
+47,Yes,56
+48,No,57
+100,Yes,115
+101,No,116
+30,Yes,37
+31,No,38
+32,Yes,39
+33,No,40
+34,Yes,41
+35,"No, whatever costs less",42
